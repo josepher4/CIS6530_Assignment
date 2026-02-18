@@ -1,0 +1,7 @@
+ZIP password: infected
+
+  >> Cobalt Strike
+
+     SHA256:     085ce06c03268912d651fe4448871a40736abcae49889a207c6a42879b664b8d
+     Type:       ps1
+     Source:     MalwareBazaar

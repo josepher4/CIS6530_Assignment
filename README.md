@@ -3,6 +3,15 @@ Cyber Threat Intelligent and Adversarial Risk Analysis Assignments
 
 Project 2 - APT Group Set
 
+target_groups = [
+    "G0001", "G0002", "G0004", "G0005", "G0006", "G0007", "G0009",
+    "G0010", "G0013", "G0016", "G0018", "G0022", "G0023", "G0025",
+    "G0034", "G0035", "G0040", "G0045", "G0046", "G0047", "G0053",
+    "G0060", "G0064", "G0066", "G0073", "G0074", "G0080", "G0084",
+    "G0087", "G0088", "G0093", "G0096", "G0097", "G0105", "G0108",
+    "G0114", "G0120", "G0121", "G0125", "G0130"
+]
+
 Group Members:
 - MJ
 - KH

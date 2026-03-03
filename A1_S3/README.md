@@ -1,7 +1,8 @@
 # CIS6530 A1_S3 - PE Opcode Extraction Pipeline
 
 **Author**: MJ 
-**Contributors**: KH
+
+**Contributor**: KH
 
 **Date**: March 03 2026  
 **Environment**: REMnux Noble AMD64 (VMware Workstation)
@@ -15,5 +16,5 @@ Automated opcode extraction from 48 malware samples (`.exe`/`.dll`). Extracts ex
 - **Progress bar** (tqdm) + **JSON logging** + **statistics**
 
 ## Safety
-- VM snapshot recommended
-- Host-only networking
+- **Script-safe**: Executes Python analysis tools only  
+- **Malware-safe**: Never executes target .exe/.dll samples

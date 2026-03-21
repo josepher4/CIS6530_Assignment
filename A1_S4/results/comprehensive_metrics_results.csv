@@ -1,0 +1,9 @@
+Classifier,Ngram,Accuracy,Precision,Recall,F1-Score
+SVM,1-gram,0.0,0.0,0.0,0.0
+SVM,2-gram,0.021,0.021,0.021,0.021
+KNN_k3,1-gram,0.062,0.062,0.062,0.062
+KNN_k3,2-gram,0.062,0.062,0.062,0.062
+KNN_k5,1-gram,0.021,0.021,0.021,0.021
+KNN_k5,2-gram,0.042,0.042,0.042,0.042
+DecisionTree,1-gram,0.104,0.104,0.104,0.104
+DecisionTree,2-gram,0.042,0.042,0.042,0.042

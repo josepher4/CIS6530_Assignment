@@ -1,0 +1,5 @@
+,1gram,2gram
+SVM,0.0,0.021
+KNN_k3,0.062,0.062
+KNN_k4,0.021,0.042
+DecisionTree,0.104,0.042
